@@ -1,5 +1,5 @@
 # Stock-Price-Prediction-System
-I undertook this project as a personal research project. As Stock price data is a form of time series data, it becomes very crucial to understand that not every model is functional and accurate over this kind of data. 
+As Stock price data is a form of time series data, it becomes very crucial to understand that not every model is functional and accurate over this kind of data. 
 Hence I specifically chose a form of RNN- called LSTM, which in itself is a modified version of RNN. 
 
 Stocks, also known as shares or equity, represent ownership in a publicly traded company. 
